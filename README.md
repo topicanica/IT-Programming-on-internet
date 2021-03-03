@@ -1,2 +1,2 @@
 # IT-Programming-on-internet
-Programming on internet course tasks
+This repository consist of tasks during programming on internet course.
